@@ -53,17 +53,6 @@ _🚀 Team-oriented mindset, strong collaboration skills, and deadline-driven ex
   
 </p>
 
----
-
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=issa-bourasse&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=issa-bourasse&theme=radical" alt="Profile Summary" />
-</p>
 
 ---
 

@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/halaguemri" target="_blank">Hala Guemri</a> 👋</h1>
 
-
-
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Mobile+Developer;Full+Stack+Web+Developer;AI+Enthusiast;Always+Learning+New+Technologies" />
+</p>
 
 <h2 align="center">About Me</h2>
 

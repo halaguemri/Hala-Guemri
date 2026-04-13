@@ -2,17 +2,15 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Mobile+Developer;Full+Stack+Web+Developer;AI+Enthusiast;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Mobile+%26+Web+Developer;Full+Stack+Web+Developer;AI+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 <h2 align="center">About Me</h2>
 
 - 🎓 **Professional Master’s Degree in Mobile Development Engineering** at [Higher Institute of Management of Gabès]
-
-
 - ⚡ Tech enthusiast: MERN, React Native, Firebase, Generative AI, and more!
 -⚡ Passionate about building apps with JavaScript, React, Node.js, React Native & Flutter
-_🚀 Team-oriented mindset, strong collaboration skills, and deadline-driven execution
+-🚀 Team-oriented mindset, strong collaboration skills, and deadline-driven execution
 
 ---
 

@@ -7,11 +7,14 @@
 
 <h2 align="center">About Me</h2>
 
-- 🎓 **Professional Master’s Degree in Mobile Development Engineering** at Higher Institute of Management of Gabès  
+- 🎓 **Professional Master’s Degree in Mobile Development Engineering** – Higher Institute of Management of Gabès  
 - 🎓 **Bachelor’s Degree in Management Information Systems (Business Information Systems)**  
-- ⚡ Passionate about building mobile and web applications using JavaScript, React, Node.js, React Native, and Flutter  
-- 🤖 Interested in Artificial Intelligence and modern technologies  
-- 🚀 Team-oriented developer with strong collaboration skills and a focus on meeting deadlines  
+- 🎓 **Software Development Bootcamp (AI Skills)** – GoMyCode  
+
+- ⚡ Passionate about building applications using JavaScript, React, Node.js, React Native, and Flutter  
+- 🌐 Mobile & Web Developer focused on creating real-world solutions  
+- 🤖 Interested in Artificial Intelligence and its impact on modern applications  
+- 🚀 Team-oriented mindset with strong collaboration skills and respect for deadlines  
 
 ---
 

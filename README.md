@@ -7,10 +7,11 @@
 
 <h2 align="center">About Me</h2>
 
-- 🎓 **Professional Master’s Degree in Mobile Development Engineering** at [Higher Institute of Management of Gabès]
-- ⚡ Tech enthusiast: MERN, React Native, Firebase, Generative AI, and more!
--⚡ Passionate about building apps with JavaScript, React, Node.js, React Native & Flutter
--🚀 Team-oriented mindset, strong collaboration skills, and deadline-driven execution
+- 🎓 **Professional Master’s Degree in Mobile Development Engineering** at Higher Institute of Management of Gabès  
+- 🎓 **Bachelor’s Degree in Management Information Systems (Business Information Systems)**  
+- ⚡ Passionate about building mobile and web applications using JavaScript, React, Node.js, React Native, and Flutter  
+- 🤖 Interested in Artificial Intelligence and modern technologies  
+- 🚀 Team-oriented developer with strong collaboration skills and a focus on meeting deadlines  
 
 ---
 
